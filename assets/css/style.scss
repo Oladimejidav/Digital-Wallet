@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 95vw;
+}
+
+
+
+.sidebar {
+    background-color: #011627;
+    width: 15rem;
+    height: 100vh;
+    position: fixed;
+    overflow: auto;
+    left: 0;
+    .navigation {
+        
+        display: flex;
+        flex-direction: column;
+        -ms-flex-direction: column;
+
+        .group div a {
+
+            font-weight: bolder;
+            text-decoration: none;
+            color: #f37121;
+            display: block;
+            transition: 0.3s;
+            display: block;
+            padding: 1.5rem 3rem;
+        }
+
+        .group div a:hover {
+            font-size: 1.1rem;
+            background-color: #c70039;
+            text-decoration: none;
+            color: #F6F7F8;
+        }
+    }
+}
+
+.navItem:first-child {
+    margin-top: 5rem;
+}
+
+.mainViewContainer {
+    margin-left: 15rem;
+    width: calc(100% - 220px);
+
+    .mainContent {
+        padding: 55px 20px;
+    }
+}
+
+/*  Index.php   */
+.pageHeadingBig {
+    text-align: center;
+    margin: 10rem 0;
+
+    .pageHeadingBigBox {
+        padding: 2rem 5rem;
+    }
+}
+
+.errorMessage {
+    color: #ff4444;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.successMessage {
+    color: #00C851;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.voucherIdhere {
+    color: #4285F4;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
