@@ -6,16 +6,6 @@
 
   <p align="center">
   A digital wallet is a software-based system that securely stores users' payment information and passwords for numerous payment methods and websites.
-    <br />
-    <a href="https://github.com/Saurja/digital-wallet"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Saurja/digital-wallet">View Demo</a>
-    ·
-    <a href="https://github.com/Saurja/digital-wallet/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Saurja/digital-wallet/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -101,16 +91,3 @@ Users can have different ways to send or receive money which gives them a wide v
 * Request Money
 * Vouchers
 * View Transactions
-
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/Saurja/digital-wallet/issues) for a list of proposed features (and known issues).
-
-<!--CONTRIBUTORS-->
-
-## contributors
-* [Saurja Ghosh](https://github.com/Saurja)
-* [Debalina Bhattacharjee](https://github.com/Debalina-B)
